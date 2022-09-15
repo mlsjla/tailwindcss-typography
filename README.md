@@ -15,6 +15,8 @@ A plugin that provides a set of `prose` classes you can use to add beautiful typ
 
 For full documentation, visit [tailwindcss.com/docs/typography-plugin](https://tailwindcss.com/docs/typography-plugin).
 
+> 微信小程序需要使用 target: 'legacy'
+
 ## Community
 
 For help, discussion about best practices, or any other conversation that would benefit from being searchable:

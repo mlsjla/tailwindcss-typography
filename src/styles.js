@@ -178,10 +178,10 @@ let defaultModifiers = {
         },
       },
       {
-        '> :first-child': {
+        '> *:first-child': {
           marginTop: '0',
         },
-        '> :last-child': {
+        '> *:last-child': {
           marginBottom: '0',
         },
       },
@@ -356,10 +356,10 @@ let defaultModifiers = {
         },
       },
       {
-        '> :first-child': {
+        '> *:first-child': {
           marginTop: '0',
         },
-        '> :last-child': {
+        '> *:last-child': {
           marginBottom: '0',
         },
       },
@@ -534,10 +534,10 @@ let defaultModifiers = {
         },
       },
       {
-        '> :first-child': {
+        '> *:first-child': {
           marginTop: '0',
         },
-        '> :last-child': {
+        '> *:last-child': {
           marginBottom: '0',
         },
       },
@@ -712,10 +712,10 @@ let defaultModifiers = {
         },
       },
       {
-        '> :first-child': {
+        '> *:first-child': {
           marginTop: '0',
         },
-        '> :last-child': {
+        '> *:last-child': {
           marginBottom: '0',
         },
       },
@@ -890,10 +890,10 @@ let defaultModifiers = {
         },
       },
       {
-        '> :first-child': {
+        '> *:first-child': {
           marginTop: '0',
         },
-        '> :last-child': {
+        '> *:last-child': {
           marginBottom: '0',
         },
       },
@@ -1267,10 +1267,10 @@ module.exports = {
         'ol[type="a"]': {
           listStyleType: 'lower-alpha',
         },
-        'ol[type="A" s]': {
+        'ol[type="A"]': {
           listStyleType: 'upper-alpha',
         },
-        'ol[type="a" s]': {
+        'ol[type="a"]': {
           listStyleType: 'lower-alpha',
         },
         'ol[type="I"]': {
@@ -1279,10 +1279,10 @@ module.exports = {
         'ol[type="i"]': {
           listStyleType: 'lower-roman',
         },
-        'ol[type="I" s]': {
+        'ol[type="I"]': {
           listStyleType: 'upper-roman',
         },
-        'ol[type="i" s]': {
+        'ol[type="i"]': {
           listStyleType: 'lower-roman',
         },
         'ol[type="1"]': {

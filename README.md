@@ -13,7 +13,11 @@ A plugin that provides a set of `prose` classes you can use to add beautiful typ
 
 ## Documentation
 
+
 For full documentation, visit [tailwindcss.com/docs/typography-plugin](https://tailwindcss.com/docs/typography-plugin).
+
+###  兼容小程序参数，插件参数
+  target: 'legacy'
 
 ## Community
 
